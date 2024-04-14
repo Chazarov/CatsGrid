@@ -1,5 +1,6 @@
 # Cats grid
 ____
+![Запись-2024-04-14-192213](https://github.com/Chazarov/ShoppingCentersRussia-tgBot-/assets/152388064/b8af2753-3717-4137-953c-1e03c0540e2a)
 ____
 __libs:__
 
